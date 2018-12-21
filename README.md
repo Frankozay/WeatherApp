@@ -6,3 +6,5 @@
 ### Introspection
 UI很丑，之后会改一下
 ### Screenshot
+![Image text](https://github.com/Frankozay/WeatherApp/raw/master/Screenshot/2.jpg)  
+![Image text](https://github.com/Frankozay/WeatherApp/raw/master/Screenshot/1.jpg)  
